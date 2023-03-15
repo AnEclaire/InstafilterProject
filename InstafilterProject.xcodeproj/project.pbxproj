@@ -14,6 +14,7 @@
 		88376EF129C00DD100F1A4E0 /* InstafilterProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88376EF029C00DD100F1A4E0 /* InstafilterProjectTests.swift */; };
 		88376EFB29C00DD100F1A4E0 /* InstafilterProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88376EFA29C00DD100F1A4E0 /* InstafilterProjectUITests.swift */; };
 		88376EFD29C00DD100F1A4E0 /* InstafilterProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88376EFC29C00DD100F1A4E0 /* InstafilterProjectUITestsLaunchTests.swift */; };
+		88376F0A29C0690700F1A4E0 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88376F0929C0690700F1A4E0 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		88376EF629C00DD100F1A4E0 /* InstafilterProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstafilterProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88376EFA29C00DD100F1A4E0 /* InstafilterProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstafilterProjectUITests.swift; sourceTree = "<group>"; };
 		88376EFC29C00DD100F1A4E0 /* InstafilterProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstafilterProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		88376F0929C0690700F1A4E0 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				88376EDF29C00DD000F1A4E0 /* InstafilterProjectApp.swift */,
 				88376EE129C00DD000F1A4E0 /* ContentView.swift */,
+				88376F0929C0690700F1A4E0 /* ImagePicker.swift */,
 				88376EE329C00DD100F1A4E0 /* Assets.xcassets */,
 				88376EE529C00DD100F1A4E0 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88376F0A29C0690700F1A4E0 /* ImagePicker.swift in Sources */,
 				88376EE229C00DD000F1A4E0 /* ContentView.swift in Sources */,
 				88376EE029C00DD000F1A4E0 /* InstafilterProjectApp.swift in Sources */,
 			);
